@@ -10,6 +10,8 @@ print_r($numbers);
 ?>
 
 <?php
+
+//Example from php site
 $fruits = array("d" => "lemon", "a" => "orange", "b" => "banana", "c" => "apple");
 
 function test_alter(&$item1, $key, $prefix)

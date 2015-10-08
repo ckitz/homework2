@@ -41,6 +41,7 @@ for ($i = 0; $i < $this->input; $i++)
 
 $n=4;
 echo $newarray["."]["."];
+echo $n ->triangle();
 
 
 
